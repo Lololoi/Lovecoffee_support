@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8846635582:AAEbEePqz_nYZDK7i0ypRiwG1b0zK3jl6Jo")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8846635582:AAHVSj7Vt8c3JrNhWoDXfN6Tr3ojBP8OVgI")
 
 SUPPORT_CHAT_ID = int(os.getenv("SUPPORT_CHAT_ID", "7309670627"))
 
